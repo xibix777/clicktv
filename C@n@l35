@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Gen.py",Gen (1080p) 
+#EXTINF:-1 tvg-id="Gen.py",Gen
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1,24 HORAS
 http://45.225.95.171:7577/play/a0uf/index.m3u8
